@@ -1,14 +1,1 @@
-# S.C.G ![CodeQL](https://github.com/thiago-roock/SistemaControleGlicemico/workflows/CodeQL/badge.svg)
-> Glycemic Control System.
-
-## Technologies used🚀
-
-| Name | Description |
-| ---------- | --------------------- |
-| Bulma.io | Frontend styling framework |
-| JQuery | javascript framework |
-| Typed.js | Framework for typing purposes |
-
-## Diagram 🖼️
-> Operation flowchart
-<img src="./images/diagram.jpg"></img>
+This is Diabetic control application which uses machine learning and AI to claculate the current glucose value and carbohydrates we take in food and calculates the basal value needed.
